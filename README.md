@@ -1,5 +1,5 @@
 # MassSurveillanceDB
-We created this SQL database for the "databases" course(electrical and computer engineering department of AUTH).
+This SQL database has been created for the "databases" course (electrical and computer engineering department of AUTH).
 
 Includes the following files:
 - DB Mass.mwb: database model in MySQL Workbench format.
